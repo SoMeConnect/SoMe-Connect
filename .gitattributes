@@ -1,0 +1,7 @@
+assets/* linguist-vendored
+external/* linguist-vendored
+includes/* linguist-vendored
+install/* linguist-vendored
+parts/* linguist-vendored
+woocommerce/* linguist-vendored
+*.css linguist-language=WordPress
